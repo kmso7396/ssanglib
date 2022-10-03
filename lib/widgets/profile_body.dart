@@ -23,10 +23,7 @@ class _ProfileBodyState extends State<ProfileBody> {
       child: CustomScrollView(
         slivers: <Widget>[
           SliverList(
-            delegate: SliverChildListDelegate(
-                [Row(
-                  children: [],
-                ),
+            delegate: SliverChildListDelegate([
                   _username(),_userBio(),_editProfileBtn(),
                 _tabButtons(),_selectedIndicator()]
             ),

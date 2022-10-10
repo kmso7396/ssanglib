@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934112876477",
+    "project_id": "baduk-3afa4",
+    "storage_bucket": "baduk-3afa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934112876477:android:6c09edddec31b11661e4d4",
+        "android_client_info": {
+          "package_name": "com.example.baduk1234"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934112876477-ord93q0gaar9tgl5ko0utak72hivk1r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhaT1j4KGb1bmJoXJ-h0qOqYcQixeft5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934112876477-ord93q0gaar9tgl5ko0utak72hivk1r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

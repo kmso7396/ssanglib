@@ -101,7 +101,7 @@ class Post extends StatelessWidget {
 
   CachedNetworkImage _postImage() {
     return CachedNetworkImage(
-        imageUrl: 'https://picsum.photos/id/$index/200/300',
+        imageUrl: 'https://ifh.cc/g/DdsFGN.gif',
         placeholder: (BuildContext context, String url){
           return MyProgressIndicator(
             containerSize: size.width,
